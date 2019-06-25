@@ -17,12 +17,12 @@
  </head>
  <body>
  <h1>Daftar Disini!</h1>
- <p>Isikan Nama dan Alamat Email, lalu tekan tombol <strong>Submit</strong> Untuk Mendaftar.</p>
+ <p>Isikan Nama dan Alamat Email, lalu tekan tombol <strong>Daftar</strong> Untuk Mendaftar.</p>
  <form method="post" action="index.php" enctype="multipart/form-data" >
        Nama  <input type="text" name="name" id="name"/></br></br>
        Email <input type="text" name="email" id="email"/></br></br>
        Pekerjaan <input type="text" name="job" id="job"/></br></br>
-       <input type="submit" name="submit" value="Submit" />
+       <input type="submit" name="submit" value="Daftar" />
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
