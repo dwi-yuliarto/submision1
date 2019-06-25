@@ -1,6 +1,6 @@
 <html>
  <head>
- <Title>Registration Form</Title>
+ <Title>Pendaftaran Peserta</Title>
  <style type="text/css">
  	body { background-color: #fff; border-top: solid 10px #000;
  	    color: #333; font-size: .85em; margin: 20; padding: 20;
@@ -16,7 +16,7 @@
  </style>
  </head>
  <body>
- <h1>Register here!</h1>
+ <h1>Daftar Disini!</h1>
  <p>Isikan Nama dan Alamat Email, lalu tekan tombol <strong>Submit</strong> Untuk Mendaftar.</p>
  <form method="post" action="index.php" enctype="multipart/form-data" >
        Nama  <input type="text" name="name" id="name"/></br></br>
