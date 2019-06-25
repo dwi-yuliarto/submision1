@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "tcp:dwidicodingserver.database.windows.net, 1433";//<Nama server database Anda>
+    $host = "dwidicodingserver.database.windows.net";//<Nama server database Anda>
     $user = "dwidicoding@dwidicodingserver"; //<Nama admin database Anda>
     $pass = "Ilona200812Alber"; //<Password admin database Anda>
     $db = "dwidicoding_db"; //<Nama database Anda>
