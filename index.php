@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "tcp:dwidicodingserver.database.windows.net, 1433";//<Nama server database Anda>
-    $user = "dwidicoding@dwidicodingserve"; //<Nama admin database Anda>
+    $user = "dwidicoding@dwidicodingserver"; //<Nama admin database Anda>
     $pass = "Ilona200812Alber"; //<Password admin database Anda>
     $db = "dwidicoding_db"; //<Nama database Anda>
 
