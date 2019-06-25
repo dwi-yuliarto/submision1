@@ -26,9 +26,9 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<dwiwebapp.scm.azurewebsites.net:443>";//<Nama server database Anda>
-    $user = "<$dwiwebapp>"; //<Nama admin database Anda>
-    $pass = "<Xcjs0xQW7EkcK9cZ6kwf9Wx3sq2xWhtXvQ8J1Ey1rxYDnxyqe5BMs4Gfkpd5>"; //<Password admin database Anda>
+    $host = "<dwidicodingserver.database.windows.net>";//<Nama server database Anda>
+    $user = "<dwidicoding>"; //<Nama admin database Anda>
+    $pass = "<Ilona200812Alber>"; //<Password admin database Anda>
     $db = "<dwidicoding_db>"; //<Nama database Anda>
 
     try {
